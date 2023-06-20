@@ -24,7 +24,12 @@ This portfolio showcases my web development projects and serves as a central hub
 
 ## Getting Started
 
-1. Clone the repository:
+### Clone the repository
+
+Clone the repository using the following command:
+
+```bash
+git clone <repository_url>
 
 2. Install the dependencies:
 
