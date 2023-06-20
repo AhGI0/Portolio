@@ -31,7 +31,7 @@ let Data = [
     },
     {
         year: "2023",
-        title: "Java script",
+        title: "MongoDB",
         duration: "6 months",
         details:" I explored MongoDB, a popular NoSQL database. I began by understanding the fundamentals of MongoDB's document-based data model. I learned to install and set up MongoDB on my local machine or in a cloud environment. Creating, updating, and querying documents became intuitive with MongoDB's flexible JSON-like structure. I utilized the MongoDB Compass GUI or the MongoDB shell for interacting with the database. Indexing and aggregation pipelines allowed me to optimize query performance and perform complex data operations. I explored the concept of data modeling in MongoDB and learned to design efficient schemas. I implemented data validation and security measures to protect my MongoDB database. Integration with programming languages like JavaScript or Node.js enabled seamless interaction with MongoDB. The MongoDB documentation and community provided valuable resources and support throughout my learning journey",
     },

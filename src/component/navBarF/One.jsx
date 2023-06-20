@@ -44,7 +44,7 @@ let child = content.map((E) => {
 })
     return (
         <>
-            <div className="fixed w-full h-sceen bg-white/90 flex flex-col justify-center items-center z-20">
+            <div className="fixed md:hidden w-full h-sceen bg-white/90 flex flex-col justify-center items-center z-20">
                 {child}
             </div>
      

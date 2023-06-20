@@ -1,7 +1,7 @@
 import Data from './workItem.jsx'
 
 let Work = () => {
-    console.log(Data);
+   
     return (
         <>
             <div id="skills" className="max-w-[1040px] m-auto md:pl-20 p-4 py-16">

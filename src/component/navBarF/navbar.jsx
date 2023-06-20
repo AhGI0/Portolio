@@ -7,19 +7,25 @@ import One from "./One";
 
 
 
+
 let Nav = () => {
+  
+
     let [show, SetShow] = useState(false);
-   
-    const handleNAv = () => {
+    
+ 
+    const handleNav = () => {
         SetShow(!show);
-    }
+      };
+  
+  
     return (
         < >
-            
-            <AiOutlineMenu onClick={ handleNAv } className="absolute top-4 right-4 z-[99] md:hidden" />
+        {/**z-[99] */}
+            <AiOutlineMenu onClick={ handleNav } className="fixed top-4 right-4 z-[99] md:hidden" />
                 { show ? <One /> : '' }
                
-            <div className="md:block hidden fixed top-[25%] z-10">
+            <div  className="md:block hidden fixed top-[25%] z-10">
                 <div className="flex flex-col">
                     <a href="#main" className="rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-100 ease-in duration-300">
                 <AiOutlineHome size={20}/>
@@ -38,7 +44,8 @@ let Nav = () => {
                     </a>
                 </div>
                 </div>
-                
+              
+            
            
         </>
     )
