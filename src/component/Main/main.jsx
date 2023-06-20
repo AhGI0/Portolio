@@ -3,7 +3,7 @@ import { BsGithub, BsLinkedin, BsMedium } from "react-icons/bs";
 import { FaCode } from 'react-icons/fa';
 let Main = () => {
     return (
-        <div id="main">
+      <div id="main">
             <img className="w-full  h-screen object-cover object-left scale-x-[-1]" src="./main.avif" alt="" />
             <div className="w-full h-screen absolute top-0 left-0 bg-white/50">
                 <div className='max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center'>
