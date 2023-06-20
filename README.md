@@ -31,6 +31,8 @@ Clone the repository using the following command:
 ```bash
 git clone <repository_url>
 
+```
+
 2. Install the dependencies:
 
 3. Run the development server:
