@@ -56,8 +56,8 @@ I welcome contributions and suggestions for improving this portfolio. If you hav
 
 For any inquiries, collaborations, or job opportunities, you can reach me at:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Email: [your-email@example.com](mailto:ahmedsaye23156@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ahmed-gibran-a67487228/)
 
 ## License
 
