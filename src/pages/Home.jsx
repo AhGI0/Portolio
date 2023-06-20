@@ -8,7 +8,7 @@ let Home = () => {
         <>
             <Nav />
             <Main/>
-          <Work/>
+            <Work/>
         </>
     )
 }
