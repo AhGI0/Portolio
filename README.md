@@ -35,10 +35,16 @@ git clone <repository_url>
 
 ###  2-Install the dependencies:
 
-```bash  Run the development server:
+```bash
+  npm install
 
 ```
 
+### 3-Run the development server:
+
+```sql
+npm start
+```
 
 4. Open the browser and navigate to `http://localhost:3000` to view the portfolio.
 
