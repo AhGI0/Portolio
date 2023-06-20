@@ -24,7 +24,7 @@ This portfolio showcases my web development projects and serves as a central hub
 
 ## Getting Started
 
-### Clone the repository
+### 1-Clone the repository
 
 Clone the repository using the following command:
 
@@ -33,9 +33,11 @@ git clone <repository_url>
 
 ```
 
-2. Install the dependencies:
+###  2-Install the dependencies:
 
-3. Run the development server:
+```bash  Run the development server:
+
+```
 
 
 4. Open the browser and navigate to `http://localhost:3000` to view the portfolio.
