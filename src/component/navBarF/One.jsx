@@ -10,7 +10,7 @@ let One = () => {
             Icon:<AiOutlineHome/>
         },
         {
-            child: "Work",
+            child: "Skills",
             Icon:<GrProjects/>
         },
         {
