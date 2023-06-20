@@ -21,6 +21,7 @@ This portfolio showcases my web development projects and serves as a central hub
 - HTML
 - CSS
 - JavaScript
+- react-type-animation
 
 ## Getting Started
 
