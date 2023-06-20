@@ -1,5 +1,6 @@
 import {TypeAnimation} from 'react-type-animation'
-import { BsGithub,BsLinkedin,BsMedium } from "react-icons/bs";
+import { BsGithub, BsLinkedin, BsMedium } from "react-icons/bs";
+import { FaCode } from 'react-icons/fa';
 let Main = () => {
     return (
         <div id="main">
@@ -31,9 +32,10 @@ let Main = () => {
                     <div className=' flex justify-between pt-6 max-w-[200px] w-full'
                     
                     >
-                   <a href="https://medium.com/@ahmedsaye23156" target={"_blank"}><BsMedium size={30}/> </a>
-                  <a href="https://www.linkedin.com/in/ahmed-gibran-a67487228/" target={"_blank"}>    <BsLinkedin size={30}/></a>  
-                        <a href="https://github.com/ahmedsayedjobran1" target={"_blank"}> <BsGithub size={30}/></a>
+                   <a title='Medium' href="https://medium.com/@ahmedsaye23156" target={"_blank"}><BsMedium size={30}/> </a>
+                  <a title='LinkedIn' href="https://www.linkedin.com/in/ahmed-gibran-a67487228/" target={"_blank"}>    <BsLinkedin size={30}/></a>  
+                        <a title='GitHub' href="https://github.com/ahmedsayedjobran1" target={"_blank"}> <BsGithub size={30}/></a>
+                        <a title='letCode ' href="https://leetcode.com/Ahmedsayed_Dev/" target={"_blank"}> <FaCode size={30}/></a>
                     </div>
                     
 </div>

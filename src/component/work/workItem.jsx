@@ -3,7 +3,7 @@ let Data = [
         year: "2022",
         title: "ReactJS",
         duration: "1.5 years",
-        details:"In my journey learning React, I started by understanding the basics of the library. I set up my development environment by installing Node.js and using npm or Yarn. Once that was done, I dove into component-based architecture, breaking my UI into reusable components I learned to write HTML-like code within my JavaScript files using JSX. I grasped the concept of rendering components and made them dynamic by utilizing state and props. Managing state was crucial, so I explored different techniques such as local component state and utilized state management libraries like Redux or MobX, To handle routing in my applications, I relied on React Router, which allowed for seamless navigation between different pages and components. By mastering these concepts and tools, I became proficient in React ",
+        details:"I started by understanding the basics of the library. I set up my development environment by installing Node.js and using npm or Yarn. Once that was done, I dove into component-based architecture, breaking my UI into reusable components I learned to write HTML-like code within my JavaScript files using JSX. I grasped the concept of rendering components and made them dynamic by utilizing state and props. Managing state was crucial, so I explored different techniques such as local component state and utilized state management libraries like Redux or MobX, To handle routing in my applications, I relied on React Router, which allowed for seamless navigation between different pages and components. By mastering these concepts and tools, I became proficient in React ",
     },
     {
         year: "2023",
@@ -40,6 +40,12 @@ let Data = [
         title: "JSON",
         duration: "6 months",
         details:" I explored JSON, a lightweight data interchange format. I discovered that JSON is based on a simple and readable syntax, making it easy to work with. I learned to create JSON objects using key-value pairs, representing structured data. Parsing JSON allowed me to convert JSON strings into usable data in various programming languages. I utilized JSON.stringify() to convert JavaScript objects into JSON strings. JSON.parse() helped me convert JSON strings back into JavaScript objects. I learned to work with nested objects and arrays within JSON. JSON's wide compatibility made it suitable for data exchange between different systems and languages. Validating and formatting JSON data became essential for ensuring data integrity and consistency. The JSON community and online resources provided continuous support and further enriched my learning experience.",
+    },
+    {
+        year: "2023",
+        title: "FireBase",
+        duration: "6 months",
+        details:"I delved into the powerful suite of tools and services it offers for building and managing web and mobile applications. I started by understanding the core concepts of Firebase, such as real-time database, authentication, and cloud storage. I learned to set up Firebase projects, configure security rules, and integrate Firebase SDKs into my applications. Utilizing Firebase's real-time database, I achieved seamless data synchronization across clients and implemented real-time features. I explored Firebase Authentication, enabling secure user authentication and managing user accounts. Firebase Cloud Storage allowed me to efficiently store and retrieve files, such as images or documents. I leveraged Firebase Functions to execute server-side logic and automate tasks. With Firebase, I developed scalable and robust applications, utilizing its extensive documentation and community support to enhance my learning experience.",
     },
 ]
 
