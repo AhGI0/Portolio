@@ -3,7 +3,7 @@ let Contact = () => {
         <>
             <div id="Contact" className="max-w-[1040px] m-auto md:pl-20 p-4 py-16">
        <h1 className="font-bold py-4 mb-5 text-4xl text-center text-[blue] ">Contact</h1>
-                <form  action="" method="POST" encType="multipart/form-data" >
+                <form  action="https://getform.io/f/13ee0da2-c2ae-437c-a451-22c90dffa3fc" method="POST" encType="multipart/form-data" >
                     <div className="grid md:grid-cols-2 gap-4 w-full py-2">
                         <div className="flex flex-col ">
                             <label className="uppercase text-sm py-2"  htmlFor="">Name</label>
