@@ -2,8 +2,9 @@ import Nav from "../component/navBarF/navbar";
 import { AiOutlineMenu } from "react-icons/ai";
 import { useState } from "react";
 import Main from "../component/Main/main";
-import Work from "../component/work/work";
+import Work from "../component/skills/work";
 import Project from "../component/projects/project";
+import Contact from "../component/contact/contact";
 
 let Home = () => {
     return (
@@ -11,7 +12,8 @@ let Home = () => {
             <Nav />
             <Main/>
             <Work />
-            <Project/>
+            <Project />
+            <Contact/>
         </>
     )
 }
